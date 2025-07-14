@@ -40,7 +40,7 @@ Built with a mobile-first mindset, ensuring seamless rendering on smartphones, t
 
 ## Live Preview
 
-👉 [Live Demo](https://yourusername.github.io/responsive-profile-page/)  
+👉 [Live Demo](https://kuyik2.github.io/responsive-profile-page/)
 👉 [View Code on GitHub](https://github.com/yourusername/responsive-profile-page)
 
 ---
